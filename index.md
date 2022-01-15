@@ -6,6 +6,27 @@ My name is Hamid.
 
 Information Technology Engineer, with more than 15 years of experience in the field of programming, implementation of websites and web-based software, as well as cooperation with companies and professional engineers, specialized teaching and training, and graduate in secure telecommunications.
 
+
+I have enough experience in the following fields:
+
+1. pure php programming.
+2. Laravel framework
+3. pure Javascript programming
+4. Nodejs + Express + Mongoose + ‫‪Sequlize‬‬
+5. Reactjs + Nextjs
+6. Vuejs
+7. Typescript
+8. OOP concepts + MVC + Design patterns
+9. Unit testing at languages I am working (phpunit in php - jest, mocha + chai + sinon in js)
+10. Mysql + Postgresql + Mongodb
+11. Package management (Composer for php and npm or js)
+12. , ...
+
+and I have experience in ‫‪Symfony‬‬, ‫‪CakePHP‬‬ frameworks and wordpress, megento CMSes.
+
+
+
+
 You can use the [editor on GitHub](https://github.com/moladoust/moladoust.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
