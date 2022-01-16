@@ -20,7 +20,7 @@ I have enough experience in the following fields:
 9. Unit testing at languages I am working (phpunit in php - jest, mocha + chai + sinon in js)
 10. Mysql + Postgresql + Mongodb
 11. Package management (Composer for php and npm or js)
-12. , ...
+12. and etc.
 
 and I have experience in ‫‪Symfony‬‬, ‫‪CakePHP‬‬ frameworks and wordpress, megento CMSes.
 
