@@ -1,6 +1,6 @@
 ## Welcome to my land!
 
-Hello;
+Hi there.
 
 My name is Hamid.
 
