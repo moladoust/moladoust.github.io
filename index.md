@@ -10,17 +10,18 @@ Information Technology Engineer, with more than 15 years of experience in the fi
 I have enough experience in the following fields:
 
 1. pure php programming.
-2. Laravel framework
-3. pure Javascript programming
-4. Nodejs + Express + Mongoose + ‫‪Sequlize‬‬
-5. Reactjs + Nextjs
-6. Vuejs
-7. Typescript
-8. OOP concepts + MVC + Design patterns
-9. Unit testing at languages I am working (phpunit in php - jest, mocha + chai + sinon in js)
-10. Mysql + Postgresql + Mongodb
-11. Package management (Composer for php and npm or js)
-12. and etc.
+2. Html + css
+3. Laravel framework
+4. pure Javascript programming
+5. Nodejs + Express + Mongoose + ‫‪Sequlize‬‬
+6. Reactjs + Nextjs
+7. Vuejs
+8. Typescript
+9. OOP concepts + MVC + Design patterns
+10. Unit testing at languages I am working (phpunit in php - jest, mocha + chai + sinon in js)
+11. Mysql + Postgresql + Mongodb
+12. Package management (Composer for php and npm or js)
+13. and etc.
 
 and I have experience in ‫‪Symfony‬‬, ‫‪CakePHP‬‬ frameworks and wordpress, megento CMSes.
 
