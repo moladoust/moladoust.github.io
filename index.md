@@ -4,7 +4,7 @@ Hi there.
 
 My name is Hamid;
 
-Information Technology Engineer, with more than 15 years of experience in the field of programming, implementation of websites and web-based software, as well as cooperation with companies and professional engineers, specialized teaching and training, and graduate in secure telecommunications.
+Information Technology Engineer, with more than 15 years of experience in the field of web programming, implementation of websites and web-based software, as well as cooperation with companies and professional engineers, specialized teaching and training, and graduate in secure telecommunications.
 
 
 I have enough experience in the following fields:
