@@ -9,7 +9,7 @@ Information Technology Engineer, with more than 15 years of experience in the fi
 
 I have enough experience in the following fields:
 
-1. pure php programming.
+1. Pure php programming.
 2. Html + css
 3. Laravel framework
 4. pure Javascript programming
@@ -21,9 +21,9 @@ I have enough experience in the following fields:
 10. Unit testing at languages I am working (phpunit in php - jest, mocha + chai + sinon in js)
 11. Mysql + Postgresql + Mongodb
 12. Package management (Composer for php and npm or js)
-13. and etc.
+13. And etc.
 
-and I have experience in ‫‪Symfony‬‬, ‫‪CakePHP‬‬ frameworks and wordpress, megento CMSes.
+And I have experience in ‫‪Symfony‬‬, ‫‪CakePHP‬‬ frameworks and wordpress, megento CMSes.
 
 
 
